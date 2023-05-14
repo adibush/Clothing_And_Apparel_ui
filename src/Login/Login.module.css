@@ -1,0 +1,52 @@
+.login {
+    border: 1px solid gray;
+    height: 340px;
+    width: 600px;
+    margin-left: 720px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.login_input {
+    height: 45px;
+    width: 320px;
+    margin-left: 130px;
+    margin-top: 20px;
+    border-radius: 17px;
+    font-size: 18px;
+}
+
+.login_button button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.login_button {
+    margin-left: 180px;
+    margin-top: 40px;
+}
+
+.sign_up_button {
+    margin-left: 140px;
+    margin-top: -47px;
+
+}
+
+.link_to_home {
+    margin-left: 90px;
+    font-size: 20px;
+    color: black;
+
+}

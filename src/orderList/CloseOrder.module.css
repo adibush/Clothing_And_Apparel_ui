@@ -1,0 +1,25 @@
+.container {
+    background-color: lightgray;
+    border-radius: 20px;
+    height: 0%;
+
+
+}
+
+.number_order {
+    margin-left: -1760px;
+    margin-top: -10px;
+}
+
+.mini_container {
+    margin-left: 50px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px 250px 250px;
+    margin-left: 350px;
+    margin-top: -70px;
+    grid-gap: 100px 10px;
+
+}

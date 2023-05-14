@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    grid-template-columns: 480px 480px 480px 480px;
+
+}
+
+.text_favorite {
+    color: yellow;
+}
+
+.no_text_favorite {
+    color: grey;
+}

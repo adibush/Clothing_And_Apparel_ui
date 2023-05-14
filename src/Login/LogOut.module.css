@@ -1,0 +1,27 @@
+.container {
+    border: 1px solid black;
+    height: 300px;
+    width: 500px;
+    margin-left: 750px;
+    margin-top: 100px;
+}
+
+.logout_button {
+    background-color: deepskyblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 200px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 0.5rem;
+}
+
+.delete {
+    margin-left: 200px;
+}

@@ -1,0 +1,51 @@
+.h1 {
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 1px;
+    margin-bottom: -60px;
+
+}
+
+.grid_container {
+    display: grid;
+    grid-template-columns: 400px 400px 400px 400px 400px;
+    margin-bottom: 100px;
+}
+
+.pay_container {
+    text-align: center;
+}
+
+.label {
+    font-size: 18px;
+    margin-left: 185px;
+}
+
+.input {
+    height: 30px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+.button {
+    background-color: rgb(0, 200, 255);
+    border: none;
+    color: white;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.button:hover {
+    color: gray;
+}
+
+.title_close_order {
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: -30px;
+}

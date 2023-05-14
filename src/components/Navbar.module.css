@@ -1,0 +1,102 @@
+.navbar {
+    color: white;
+    height: 75px;
+    background-color: black;
+    margin-top: -21px;
+}
+
+.icon {
+    height: 70px;
+    width: 150px;
+    margin-left: 1850px;
+    margin-top: -50px;
+}
+
+.name {
+    height: 25px;
+    width: 150px;
+    margin-left: 1750px;
+    padding-top: 7px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: white;
+}
+
+.for_space {
+    color: black;
+}
+
+.button {
+    margin-top: -60px;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.button:hover {
+    color: gray;
+}
+
+.search {
+    margin-left: 570px;
+    margin-top: -43px;
+}
+
+.search_input {
+    height: 40px;
+    width: 700px;
+    border: none;
+    text-align: right;
+}
+
+.search_button {
+    width: 55px;
+    height: 44px;
+    margin-top: 0px;
+    float: left;
+    background: #2196F3;
+    margin-right: -2px;
+    border-right: -2px #2196F3;
+    text-align: center;
+    font-size: 23px;
+}
+
+.item-grid {
+    height: 540px;
+    width: 400px;
+    margin-top: 110px;
+    margin-left: 150px;
+    text-align: center;
+    background-color: darkslategrey;
+    margin-bottom: 80px;
+    border-radius: 40px;
+    color: white;
+
+}
+
+.image-of-grid {
+    height: 320px;
+    width: 400px;
+    border-radius: 35px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 480px 480px 480px 480px;
+
+}
+
+.favorite {
+    color: yellow;
+}
+
+.nofavorite {
+    color: grey;
+}
+
+.hide {
+    display: none;
+}

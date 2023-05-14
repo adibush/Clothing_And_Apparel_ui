@@ -1,0 +1,15 @@
+.empty_Favorite {
+    height: 500px;
+    width: 2000px;
+    margin-left: 10px;
+}
+
+.h1 {
+    text-align: left;
+}
+
+.nofavorite {
+    color: grey;
+    height: 20px;
+    width: 200px;
+}

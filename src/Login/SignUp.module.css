@@ -1,0 +1,96 @@
+.signup {
+    border: 1px solid gray;
+    height: 100%;
+    width: 600px;
+    margin-left: 720px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.signup input[type="password"],
+.signup input[type="text"] {
+    height: 45px;
+    width: 320px;
+    margin-left: 130px;
+    margin-top: 20px;
+    border-radius: 17px;
+    font-size: 18px;
+}
+
+.sign_in_button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 230px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 0.5rem;
+}
+
+.hide {
+    border: 1px solid black;
+}
+
+.invalid {
+    border: 3px solid red;
+}
+
+.instructions {
+    width: 320px;
+    margin-left: 130px;
+    font-size: 0.75rem;
+    border-radius: 0.5rem;
+    background: #000;
+    color: #fff;
+    padding: 0.25rem;
+    position: relative;
+    bottom: -2px;
+}
+
+.instructions>svg {
+    margin-right: 0.25rem;
+}
+
+.offscreen {
+    position: absolute;
+    left: -9999px;
+}
+
+.errmsg {
+    background-color: lightpink;
+    color: firebrick;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+section {
+    width: 100%;
+    max-width: 300px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    margin: 200px auto;
+}
+
+.login_link {
+    font-size: 20px;
+    color: black;
+    margin-left: 120px;
+}

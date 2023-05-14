@@ -1,0 +1,22 @@
+.item_grid {
+    margin-left: 50px;
+    height: 200px;
+    margin-top: -100px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 40px;
+    color: black;
+}
+
+.h3_title {
+    margin-top: 120px;
+}
+
+.image_of_grid {
+    height: 110px;
+    width: 100px;
+    margin-top: -200px;
+    margin-left: -50px;
+    position: absolute;
+}

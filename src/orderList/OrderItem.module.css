@@ -1,0 +1,36 @@
+.item_grid {
+    height: 200px;
+    width: 380px;
+    margin-top: 90px;
+    margin-left: -600px;
+    text-align: center;
+    background-color: darkgrey;
+    background-color: white;
+    border: 1px solid gray;
+    margin-bottom: -50px;
+    border-radius: 30px;
+
+    color: black;
+
+}
+
+.image_of_grid {
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    margin-left: -190px;
+    position: absolute;
+
+}
+
+.text {
+    text-align: center;
+    margin-left: 250px;
+}
+
+.button_order {
+    height: 40px;
+    margin-left: 200px;
+    border-radius: 10px;
+
+}

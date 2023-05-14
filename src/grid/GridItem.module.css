@@ -1,0 +1,86 @@
+.item_grid {
+    height: 470px;
+    width: 400px;
+    margin-top: 110px;
+    margin-left: 100px;
+    text-align: center;
+    background-color: darkslategrey;
+    margin-bottom: 80px;
+    border-radius: 40px;
+    color: white;
+
+}
+
+.image_of_grid {
+    height: 320px;
+    width: 400px;
+    border-radius: 35px;
+
+}
+
+.button_favorite {
+    background-color: darkslategrey;
+    border: 0px solid darkslategrey;
+    height: 30px;
+    width: 30px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: -120px;
+    position: absolute;
+}
+
+.button_order {
+    background-color: darkslategrey;
+    border: 0px solid darkslategrey;
+    height: 30px;
+    width: 50px;
+    font-size: 10px;
+    margin-left: 96px;
+    margin-top: -50px;
+    position: absolute;
+}
+
+.valid {
+    color: green;
+}
+
+.invalid {
+    color: red;
+}
+
+.valid_message_for_stock {
+    color: black;
+    background-color: white;
+    margin-top: -40px;
+    position: relative;
+    width: 300px;
+    margin-left: 57px;
+    margin-top: -50px;
+}
+
+.hide {
+    display: none;
+}
+
+.text_on_grid {
+    margin-left: -170px;
+
+}
+
+.text_favorite {
+    color: yellow;
+}
+
+.no_text_favorite {
+    color: grey;
+}
+
+.text_order {
+    color: yellow;
+    font-size: 30px;
+}
+
+.no_text_order {
+    color: gray;
+    font-size: 30px;
+}
